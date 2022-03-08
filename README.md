@@ -1,1 +1,1 @@
-# redis sub-pop with nodejs
+# redis sub-pub with nodejs
